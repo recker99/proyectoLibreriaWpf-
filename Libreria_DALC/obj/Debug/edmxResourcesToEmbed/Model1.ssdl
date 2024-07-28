@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LibreriaDBModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Libro">
+    <Key>
+      <PropertyRef Name="LibroId" />
+    </Key>
+    <Property Name="LibroId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Isbn" Type="bigint" Nullable="false" />
+    <Property Name="Titulo" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Autor" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Disponibilidad" Type="bit" Nullable="false" />
+  </EntityType>
+  <!--Errores durante la generación:
+advertencia 6002: La tabla o vista 'LibreriaDB.dbo.vwLibro' no tiene definida ninguna clave principal. Se ha inferido la clave y la definición se creado como una vista o tabla de solo lectura.-->
+  <EntityType Name="vwLibro">
+    <Key>
+      <PropertyRef Name="LibroId" />
+      <PropertyRef Name="Isbn" />
+      <PropertyRef Name="Titulo" />
+      <PropertyRef Name="Autor" />
+      <PropertyRef Name="Disponibilidad" />
+    </Key>
+    <Property Name="LibroId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Isbn" Type="bigint" Nullable="false" />
+    <Property Name="Titulo" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Autor" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Disponibilidad" Type="bit" Nullable="false" />
+  </EntityType>
+  <Function Name="sp_ActualizarLibro" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="LibroId" Type="int" Mode="In" />
+    <Parameter Name="Isbn" Type="bigint" Mode="In" />
+    <Parameter Name="Titulo" Type="nvarchar" Mode="In" />
+    <Parameter Name="Autor" Type="nvarchar" Mode="In" />
+    <Parameter Name="Disponibilidad" Type="bit" Mode="In" />
+  </Function>
+  <Function Name="sp_EliminarLibro" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="LibroId" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_InsertarLibro" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Isbn" Type="bigint" Mode="In" />
+    <Parameter Name="Titulo" Type="nvarchar" Mode="In" />
+    <Parameter Name="Autor" Type="nvarchar" Mode="In" />
+    <Parameter Name="Disponibilidad" Type="bit" Mode="In" />
+  </Function>
+  <Function Name="sp_ObtenerLibroPorId" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="LibroId" Type="int" Mode="In" />
+  </Function>
+  <EntityContainer Name="LibreriaDBModel1StoreContainer">
+    <EntitySet Name="Libro" EntityType="Self.Libro" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="vwLibro" EntityType="Self.vwLibro" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [vwLibro].[LibroId] AS [LibroId], 
+    [vwLibro].[Isbn] AS [Isbn], 
+    [vwLibro].[Titulo] AS [Titulo], 
+    [vwLibro].[Autor] AS [Autor], 
+    [vwLibro].[Disponibilidad] AS [Disponibilidad]
+    FROM [dbo].[vwLibro] AS [vwLibro]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LibreriaDBModel1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Libro">
+    <Key>
+      <PropertyRef Name="LibroId" />
+    </Key>
+    <Property Name="LibroId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Isbn" Type="Int64" Nullable="false" />
+    <Property Name="Titulo" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Autor" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Disponibilidad" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="vwLibro">
+    <Key>
+      <PropertyRef Name="LibroId" />
+      <PropertyRef Name="Isbn" />
+      <PropertyRef Name="Titulo" />
+      <PropertyRef Name="Autor" />
+      <PropertyRef Name="Disponibilidad" />
+    </Key>
+    <Property Name="LibroId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Isbn" Type="Int64" Nullable="false" />
+    <Property Name="Titulo" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Autor" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Disponibilidad" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="LibreriaDBEntities4" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Libro" EntityType="Self.Libro" />
+    <EntitySet Name="vwLibro" EntityType="Self.vwLibro" />
+    <FunctionImport Name="sp_ActualizarLibro">
+      <Parameter Name="LibroId" Mode="In" Type="Int32" />
+      <Parameter Name="Isbn" Mode="In" Type="Int64" />
+      <Parameter Name="Titulo" Mode="In" Type="String" />
+      <Parameter Name="Autor" Mode="In" Type="String" />
+      <Parameter Name="Disponibilidad" Mode="In" Type="Boolean" />
+    </FunctionImport>
+    <FunctionImport Name="sp_EliminarLibro">
+      <Parameter Name="LibroId" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_InsertarLibro">
+      <Parameter Name="Isbn" Mode="In" Type="Int64" />
+      <Parameter Name="Titulo" Mode="In" Type="String" />
+      <Parameter Name="Autor" Mode="In" Type="String" />
+      <Parameter Name="Disponibilidad" Mode="In" Type="Boolean" />
+    </FunctionImport>
+    <FunctionImport Name="sp_ObtenerLibroPorId" ReturnType="Collection(LibreriaDBModel1.sp_ObtenerLibroPorId_Result)">
+      <Parameter Name="LibroId" Mode="In" Type="Int32" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="sp_ObtenerLibroPorId_Result">
+    <Property Type="Int32" Name="LibroId" Nullable="false" />
+    <Property Type="Int64" Name="Isbn" Nullable="false" />
+    <Property Type="String" Name="Titulo" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="Autor" Nullable="false" MaxLength="100" />
+    <Property Type="Boolean" Name="Disponibilidad" Nullable="false" />
+  </ComplexType>
+</Schema>

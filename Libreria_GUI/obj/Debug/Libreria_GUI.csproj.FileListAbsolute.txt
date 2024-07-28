@@ -1,0 +1,133 @@
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_GUI.exe.config
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_GUI.exe
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_GUI.pdb
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\bin\Debug\EntityFramework.dll
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\bin\Debug\EntityFramework.xml
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\obj\Debug\App.g.cs
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI_MarkupCompile.cache
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI_MarkupCompile.lref
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\obj\Debug\MainWindow.baml
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.g.resources
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.Properties.Resources.resources
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.csproj.GenerateResource.cache
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.csproj.CopyComplete
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.exe
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.pdb
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\obj\Debug\Vistas\AgregarLibro.g.cs
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\obj\Debug\Vistas\AgregarLibro.baml
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\obj\Debug\Vistas\ListarLibros.g.cs
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\obj\Debug\Vistas\ListarLibros.baml
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\obj\Debug\Vistas\ActualizarLibro.g.cs
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\obj\Debug\Vistas\ActualizarLibro.baml
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_Negocio.dll
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_DALC.dll
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_Negocio.pdb
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_Negocio.dll.config
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_DALC.pdb
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_DALC.dll.config
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_GUI.exe.config
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_GUI.exe
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_GUI.pdb
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\bin\Debug\EntityFramework.dll
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_Negocio.dll
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_DALC.dll
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_Negocio.pdb
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_Negocio.dll.config
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\bin\Debug\EntityFramework.xml
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_DALC.pdb
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_DALC.dll.config
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.csproj.AssemblyReference.cache
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\obj\Debug\Vistas\ActualizarLibro.g.cs
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\obj\Debug\Vistas\AgregarLibro.g.cs
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\obj\Debug\Vistas\ListarLibros.g.cs
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\obj\Debug\App.g.cs
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI_MarkupCompile.cache
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI_MarkupCompile.lref
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\obj\Debug\MainWindow.baml
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\obj\Debug\Vistas\ActualizarLibro.baml
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\obj\Debug\Vistas\AgregarLibro.baml
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\obj\Debug\Vistas\ListarLibros.baml
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.g.resources
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.Properties.Resources.resources
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.csproj.GenerateResource.cache
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.csproj.CopyComplete
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.exe
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.pdb
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_GUI.exe.config
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_GUI.exe
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_GUI.pdb
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\bin\Debug\EntityFramework.dll
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_Negocio.dll
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_DALC.dll
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_Negocio.pdb
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_Negocio.dll.config
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\bin\Debug\EntityFramework.xml
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_DALC.pdb
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_DALC.dll.config
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.csproj.AssemblyReference.cache
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\obj\Debug\Vistas\ActualizarLibro.g.cs
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\obj\Debug\Vistas\AgregarLibro.g.cs
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\obj\Debug\Vistas\ListarLibros.g.cs
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\obj\Debug\App.g.cs
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI_MarkupCompile.cache
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI_MarkupCompile.lref
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\obj\Debug\App.baml
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\obj\Debug\MainWindow.baml
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\obj\Debug\Vistas\ActualizarLibro.baml
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\obj\Debug\Vistas\AgregarLibro.baml
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\obj\Debug\Vistas\ListarLibros.baml
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.g.resources
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.Properties.Resources.resources
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.csproj.GenerateResource.cache
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.csproj.CopyComplete
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.exe
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.pdb
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_GUI.exe.config
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_GUI.exe
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_GUI.pdb
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\bin\Debug\EntityFramework.dll
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_Negocio.dll
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_DALC.dll
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_Negocio.pdb
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_Negocio.dll.config
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\bin\Debug\EntityFramework.xml
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_DALC.pdb
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\bin\Debug\Libreria_DALC.dll.config
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.csproj.AssemblyReference.cache
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\obj\Debug\MainWindow.g.cs
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\obj\Debug\Vistas\ActualizarLibro.g.cs
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\obj\Debug\Vistas\AgregarLibro.g.cs
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\obj\Debug\Vistas\ListarLibros.g.cs
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\obj\Debug\App.g.cs
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI_MarkupCompile.cache
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI_MarkupCompile.lref
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\obj\Debug\App.baml
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\obj\Debug\MainWindow.baml
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\obj\Debug\Vistas\ActualizarLibro.baml
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\obj\Debug\Vistas\AgregarLibro.baml
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\obj\Debug\Vistas\ListarLibros.baml
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.g.resources
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.Properties.Resources.resources
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.csproj.GenerateResource.cache
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria.84BCD7A6.Up2Date
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.exe
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_GUI\obj\Debug\Libreria_GUI.pdb

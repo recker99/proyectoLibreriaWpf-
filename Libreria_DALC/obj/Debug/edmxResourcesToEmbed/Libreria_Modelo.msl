@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="LibreriaDBModelStoreContainer" CdmEntityContainer="LibreriaDBEntities2">
+    <EntitySetMapping Name="Libro">
+      <EntityTypeMapping TypeName="LibreriaDBModel.Libro">
+        <MappingFragment StoreEntitySet="Libro">
+          <ScalarProperty Name="LibroId" ColumnName="LibroId" />
+          <ScalarProperty Name="Isbn" ColumnName="Isbn" />
+          <ScalarProperty Name="Titulo" ColumnName="Titulo" />
+          <ScalarProperty Name="Autor" ColumnName="Autor" />
+          <ScalarProperty Name="Disponibilidad" ColumnName="Disponibilidad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vwLibro">
+      <EntityTypeMapping TypeName="LibreriaDBModel.vwLibro">
+        <MappingFragment StoreEntitySet="vwLibro">
+          <ScalarProperty Name="LibroId" ColumnName="LibroId" />
+          <ScalarProperty Name="Isbn" ColumnName="Isbn" />
+          <ScalarProperty Name="Titulo" ColumnName="Titulo" />
+          <ScalarProperty Name="Autor" ColumnName="Autor" />
+          <ScalarProperty Name="Disponibilidad" ColumnName="Disponibilidad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="sp_ActualizarLibro" FunctionName="LibreriaDBModel.Store.sp_ActualizarLibro" />
+    <FunctionImportMapping FunctionImportName="sp_EliminarLibro" FunctionName="LibreriaDBModel.Store.sp_EliminarLibro" />
+    <FunctionImportMapping FunctionImportName="sp_InsertarLibro" FunctionName="LibreriaDBModel.Store.sp_InsertarLibro" />
+    <FunctionImportMapping FunctionImportName="sp_ObtenerLibroPorId" FunctionName="LibreriaDBModel.Store.sp_ObtenerLibroPorId">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="LibreriaDBModel.sp_ObtenerLibroPorId_Result">
+          <ScalarProperty Name="LibroId" ColumnName="LibroId" />
+          <ScalarProperty Name="Isbn" ColumnName="Isbn" />
+          <ScalarProperty Name="Titulo" ColumnName="Titulo" />
+          <ScalarProperty Name="Autor" ColumnName="Autor" />
+          <ScalarProperty Name="Disponibilidad" ColumnName="Disponibilidad" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

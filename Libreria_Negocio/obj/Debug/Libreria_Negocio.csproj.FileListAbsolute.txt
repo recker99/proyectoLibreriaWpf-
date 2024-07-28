@@ -1,0 +1,60 @@
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_Negocio\bin\Debug\Libreria_Negocio.dll.config
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_Negocio\bin\Debug\Libreria_Negocio.dll
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_Negocio\bin\Debug\Libreria_Negocio.pdb
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_Negocio\bin\Debug\Libreria_DALC.dll
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_Negocio\bin\Debug\Libreria_DALC.pdb
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_Negocio\bin\Debug\Libreria_DALC.dll.config
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_Negocio\obj\Debug\Libreria_Negocio.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_Negocio\obj\Debug\Libreria_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_Negocio\obj\Debug\Libreria_Negocio.csproj.CopyComplete
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_Negocio\obj\Debug\Libreria_Negocio.dll
+C:\Users\Nico\Desktop\ProyectoLibreria\Libreria_Negocio\obj\Debug\Libreria_Negocio.pdb
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_Negocio\bin\Debug\Libreria_Negocio.dll.config
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_Negocio\bin\Debug\Libreria_Negocio.dll
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_Negocio\bin\Debug\Libreria_Negocio.pdb
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_Negocio\bin\Debug\Libreria_DALC.dll
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_Negocio\bin\Debug\Libreria_DALC.pdb
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_Negocio\bin\Debug\Libreria_DALC.dll.config
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_Negocio\obj\Debug\Libreria_Negocio.csproj.AssemblyReference.cache
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_Negocio\obj\Debug\Libreria_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_Negocio\obj\Debug\Libreria_Negocio.csproj.CopyComplete
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_Negocio\obj\Debug\Libreria_Negocio.dll
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\ProyectoLibreria\Libreria_Negocio\obj\Debug\Libreria_Negocio.pdb
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_Negocio\bin\Debug\Libreria_Negocio.dll.config
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_Negocio\bin\Debug\Libreria_Negocio.dll
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_Negocio\bin\Debug\Libreria_Negocio.pdb
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_Negocio\bin\Debug\Libreria_DALC.dll
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_Negocio\bin\Debug\Libreria_DALC.pdb
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_Negocio\bin\Debug\Libreria_DALC.dll.config
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_Negocio\obj\Debug\Libreria_Negocio.csproj.AssemblyReference.cache
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_Negocio\obj\Debug\Libreria_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_Negocio\obj\Debug\Libreria_Negocio.csproj.CopyComplete
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_Negocio\obj\Debug\Libreria_Negocio.dll
+C:\Users\Nico\OneDrive\ACTUALIZACIONES ASIGNATURAS\Programación Componentes Escritorio\PCE9008 (new)\Semana 5\Material Complementario\PL_IDataErrorInfo\ProyectoLibreria\Libreria_Negocio\obj\Debug\Libreria_Negocio.pdb
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_Negocio\bin\Debug\Libreria_Negocio.dll.config
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_Negocio\bin\Debug\Libreria_Negocio.dll
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_Negocio\bin\Debug\Libreria_Negocio.pdb
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_Negocio\bin\Debug\EntityFramework.dll
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_Negocio\bin\Debug\Libreria_DALC.dll
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_Negocio\bin\Debug\Libreria_DALC.pdb
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_Negocio\bin\Debug\Libreria_DALC.dll.config
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_Negocio\bin\Debug\EntityFramework.xml
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_Negocio\obj\Debug\Libreria_Negocio.csproj.AssemblyReference.cache
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_Negocio\obj\Debug\Libreria_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_Negocio\obj\Debug\Libreria.E7D1CD46.Up2Date
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_Negocio\obj\Debug\Libreria_Negocio.dll
+C:\Users\ivanb\source\repos\ProyectoLibreria\Libreria_Negocio\obj\Debug\Libreria_Negocio.pdb
